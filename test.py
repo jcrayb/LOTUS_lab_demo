@@ -1,3 +1,3 @@
-print("Test script")
+print("feature script")
 
 print([i**2 for i in range(30)])
